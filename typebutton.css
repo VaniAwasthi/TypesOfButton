@@ -1,0 +1,33 @@
+.main{
+    min-width:100%;
+    }
+h1{
+    color: green;
+    text-align: center;
+    
+}
+.button-section{
+    width:400px;
+    margin:4rem auto;
+}
+.btnSubmit{
+    height:40px;
+    width:130px;
+    padding: 2px;
+    background-color:skyblue;
+    border:2px solid white;
+    cursor:pointer;
+    color:white;
+    border-radius:10px;
+}
+.btnsubmit:hover{
+    background-color:white;
+    color:skyblue;
+    border:2px solid skyblue;
+}
+.btnDisabled{
+    height:40px;
+    width:130px;
+    padding: 2px;
+    margin: 0rem auto;
+}
